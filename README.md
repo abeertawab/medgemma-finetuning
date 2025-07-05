@@ -33,12 +33,12 @@ This project focuses on fine-tuning **MedGemma**, a state-of-the-art multimodal 
 ---
 
 ## Demo
-👉 [API Demo](http://drive.google.com/file/d/11RLpDMZ2eM_Pc2Eswu3cLTAYNy-8WXvk/view)
+👉 [API Demo](https://drive.google.com/file/d/11RLpDMZ2eM_Pc2Eswu3cLTAYNy-8WXvk/view?usp=drivesdk)
 
 ---
 
 ## Colab Notebooks
-- [Colon tissue fine-tuning notebook](https://colab.research.google.com/github/google-health/medgemma/blob/main/notebooks/fine_tune_with_hugging_face.ipynb?authuser=0&pli=1)  
+- [Colon tissue fine-tuning notebook](https://colab.research.google.com/drive/1rOQrAkFkhguH85kuI9pUfV8GwFj3b1D-?usp=sharing)  
 - [RSNA pneumonia fine-tuning notebook](https://colab.research.google.com/drive/1JCBHMRdaPEDoDuV1hq1hK-MveW3yuxz-?usp=sharing)
 
 ---
